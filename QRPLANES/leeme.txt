@@ -1,7 +1,0 @@
-Buenas Soro,
-
-He subido a Drive la API REST en php (carpeta backend). La base de datos es qrplanes.sql (vienen las dos tablas) y la configuración en connection.params.php. También encontraras las QRs para hacer pruebas.
-
-La parte de cliente en Angular (carpeta frontend) ya compilado para subir al host. Para cambiar la dirección de la parte servidor hay que modificar el contenido de this.URL="https://apirestqr.000webhostapp.com/" que se encuentra en el archivo main-FCYNWUTI.js
-
-Saludos
